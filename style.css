@@ -1,0 +1,128 @@
+body {
+    background-image: url("running.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: rgb(255, 255, 255);
+}
+
+#form1 {
+    background-color: blanchedalmond;
+    width: 20%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+
+}
+
+#form {
+    background-color: blanchedalmond;
+    width: 80%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
+#button {
+    width: 10%;
+}
+
+#checkbox {
+    text-align: left;
+}
+
+#botao-sair {
+    width: 15%;
+    color: rgb(255, 255, 255);
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#menu { 
+   color: rgb(0, 0, 0);
+   background-color: blanchedalmond;
+   width: 20%;
+}
+
+#menu1 { 
+    color: rgb(0, 0, 0);
+    background-color: blanchedalmond;
+    width: 10%;    
+}
+
+#name { 
+text-align: center;   
+}
+
+#form2 {
+    background-color: blanchedalmond;
+    width: 20%;
+    text-align: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+ }
+
+ #perfilimage { 
+     width: 600px;
+     margin-top: 20px;
+     image-rendering: 30px;
+ }
+
+ #tabelapeso {
+     background-color: grey;
+     text-align: center;
+     width: 80%;
+ }
+ #tabeladieta {
+    background-color: grey;
+    text-align: center;
+    width: 80%;
+}
+
+#td {
+    color: honeydew;
+}
+
+#tbody {
+    color: navy;
+}
+
+#tabelapressao {
+    background-color: grey;
+    text-align: center;
+    width: 80%;
+}
+#menu3  {
+    color: rgb(0, 0, 0);
+    background-color: blanchedalmond;
+    width: 10%;    
+}
+
+#menu4  {
+    color: rgb(0, 0, 0);
+    background-color: blanchedalmond;
+    width: 10%;    
+}
+#menuatividade  {
+    color: gray;
+    background-color: grey;
+    text-align: justify;
+    width: 10%;  
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+
+}
+
+#letra{
+color: rgb(255, 255, 255);    
+}
+
+#menu5  {
+    color: rgb(0, 0, 0);
+    background-color: blanchedalmond;
+    width: 10%;    
+}
